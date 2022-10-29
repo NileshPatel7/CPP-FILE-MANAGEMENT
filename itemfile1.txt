@@ -1,0 +1,150 @@
+1
+redmi phone
+5500
+2
+oppo phone
+1000
+3
+vivo phone
+1500
+4
+asus rog phone
+5200
+5
+router
+1200
+6
+fan
+4000
+7
+table fan
+5600
+8
+mouse
+3500
+9
+keyboard
+4000
+10
+speaker
+700
+11
+charger
+400
+12
+earephone
+500
+13
+headphone
+1000
+14
+jio phone
+1500
+15
+inter processor
+4000
+16
+Temple
+3500
+17
+bike
+1200
+18
+suzuki car
+2000
+19
+toyota fortuner
+400000
+20
+tata
+23000
+21
+laptop
+60000
+22
+table
+50900
+23
+AC
+40000
+24
+coca cola
+3000
+25
+thumps up
+2000
+26
+watch
+300
+27
+hand watch
+200
+28
+apple smart watch
+4000
+29
+apple macbook
+50000
+30
+apple ipad
+40000
+31
+samsung phone
+3000
+32
+truck
+40000
+33
+bus
+30000
+34
+JCB
+100000
+35
+GRAPHICS CARD
+150000
+36
+CPU
+40000
+37
+MOTHERBOARD
+70000
+38
+RAM
+5000
+39
+ROM
+7000
+40
+SSD
+3400
+41
+HDD
+4000
+42
+MOBILE COVER
+3000
+43
+KEY
+100
+44
+LOCK
+2000
+45
+BAG
+3000
+46
+MI 11
+20000
+47
+OPPO RENO 23
+4000
+48
+KDM HEADPHONE
+2000
+49
+KDM EAREPHONE
+3000
+50
+HITAGE
+400
